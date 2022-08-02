@@ -1,0 +1,5 @@
+# manually ignored
+.idea/
+venv/
+/venv/
+/.idea/
